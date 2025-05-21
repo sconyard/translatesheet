@@ -47,11 +47,11 @@ Follow the interactive prompts:
 
 Use standard ISO 639-1 language codes:
 
-- Welsh	cy
-- French	fr
-- Spanish	es
-- German	de
-- Japanese	ja
+- Welsh	`cy`
+- French	`fr`
+- Spanish	`es`
+- German	`de`
+- Japanese	`ja`
 
 Full list: https://cloud.google.com/translate/docs/languages
 🤝 License
