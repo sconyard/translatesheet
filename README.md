@@ -27,6 +27,7 @@
 
 ```bash
 pip install pandas openpyxl googletrans==3.1.0a0
+```
 
 ### 📂 Usage
 
