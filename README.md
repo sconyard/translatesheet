@@ -46,14 +46,19 @@ Follow the interactive prompts:
 ### 🌐 Language Codes
 
 Use standard ISO 639-1 language codes:
-Language	Code
 Welsh	cy
+
 French	fr
+
 Spanish	es
+
 German	de
+
 Japanese	ja
 
 Full list: https://cloud.google.com/translate/docs/languages
 🤝 License
 
 MIT License — free to use, adapt, and share.
+
+No support or warranty provided
