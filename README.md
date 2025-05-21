@@ -54,7 +54,8 @@ Use standard ISO 639-1 language codes:
 - Japanese	`ja`
 
 Full list: https://cloud.google.com/translate/docs/languages
-🤝 License
+
+### 🤝 License & Support
 
 MIT License — free to use, adapt, and share.
 
